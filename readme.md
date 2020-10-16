@@ -35,3 +35,12 @@ mongodb+srv://username:password@cluster0.9fg0m.mongodb.net/database
 ### JWT secret key
 
 The secret key for jwt should be the same in *authController.js* and *authMiddleware.js* files.
+
+
+---
+
+:mortar_board: Learning from The Net Ninja tutorials :) :+1:
+
+:computer: YouTube channel of The Net Ninja: https://www.youtube.com/c/TheNetNinja/featured
+
+---
